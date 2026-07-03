@@ -1,0 +1,2 @@
+../Core/Drivers/door_driver.c:4:6:DoorDriver_SetLockState	16	static
+../Core/Drivers/door_driver.c:9:6:DoorDriver_DriveMotor	16	static

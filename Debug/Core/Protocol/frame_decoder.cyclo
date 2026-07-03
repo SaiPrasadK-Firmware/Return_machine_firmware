@@ -1,0 +1,6 @@
+../Core/Protocol/frame_decoder.c:10:6:FrameDecoder_Init	2
+../Core/Protocol/frame_decoder.c:20:6:FrameDecoder_Reset	2
+../Core/Protocol/frame_decoder.c:31:6:FrameDecoder_ProcessTimeout	4
+../Core/Protocol/frame_decoder.c:44:16:FrameDecoder_InputByte	19
+../Core/Protocol/frame_decoder.c:160:16:FrameDecoder_InputBuffer	5
+../Core/Protocol/frame_decoder.c:180:16:FrameDecoder_GetFrame	7

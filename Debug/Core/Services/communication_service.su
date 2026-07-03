@@ -1,0 +1,4 @@
+../Core/Services/communication_service.c:16:6:CommunicationService_Init	8	static
+../Core/Services/communication_service.c:28:6:CommunicationService_ProcessRx	24	static
+../Core/Services/communication_service.c:56:6:CommunicationService_ProcessQueue	528	static
+../Core/Services/communication_service.c:68:6:CommunicationService_SendPacket	544	static

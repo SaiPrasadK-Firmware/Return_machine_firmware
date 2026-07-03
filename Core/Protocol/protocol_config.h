@@ -1,0 +1,31 @@
+/**
+ * @file protocol_config.h
+ * @brief Configuration constants and types for the communication protocol.
+ */
+
+#ifndef __PROTOCOL_CONFIG_H
+#define __PROTOCOL_CONFIG_H
+
+#define PROTOCOL_VERSION 1U
+
+#define PROTOCOL_START_BYTE1 0xAAU
+#define PROTOCOL_START_BYTE2 0x55U
+
+#define PROTOCOL_MAX_PAYLOAD_SIZE 512U
+#define PROTOCOL_HEADER_SIZE      8U
+#define PROTOCOL_CRC_SIZE         2U
+#define PROTOCOL_MAX_PACKET_SIZE  (PROTOCOL_HEADER_SIZE + PROTOCOL_MAX_PAYLOAD_SIZE)
+#define PROTOCOL_RX_TIMEOUT_MS    100U
+
+typedef enum
+{
+    PACKET_OK,
+    PACKET_INVALID_HEADER,
+    PACKET_INVALID_LENGTH,
+    PACKET_INVALID_CRC,
+    PACKET_BUFFER_TOO_SMALL,
+    PACKET_UNSUPPORTED_COMMAND,
+    PACKET_INCOMPLETE
+} PacketResult_t;
+
+#endif /* __PROTOCOL_CONFIG_H */

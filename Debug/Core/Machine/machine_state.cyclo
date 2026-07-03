@@ -1,0 +1,4 @@
+../Core/Machine/machine_state.c:6:6:MachineState_Init	1
+../Core/Machine/machine_state.c:11:6:MachineState_Set	1
+../Core/Machine/machine_state.c:16:16:MachineState_Get	1
+../Core/Machine/machine_state.c:21:6:MachineState_Process	2

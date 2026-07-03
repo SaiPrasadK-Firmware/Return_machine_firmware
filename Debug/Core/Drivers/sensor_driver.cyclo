@@ -1,0 +1,4 @@
+../Core/Drivers/sensor_driver.c:4:10:SensorDriver_ReadDistance	1
+../Core/Drivers/sensor_driver.c:9:10:SensorDriver_ReadWeight	1
+../Core/Drivers/sensor_driver.c:14:10:SensorDriver_ReadTemperature	1
+../Core/Drivers/sensor_driver.c:19:10:SensorDriver_ReadHumidity	1

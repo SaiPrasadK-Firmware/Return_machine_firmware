@@ -1,0 +1,4 @@
+../Core/Drivers/relay_driver.c:4:6:RelayDriver_SetOutput12	16	static
+../Core/Drivers/relay_driver.c:9:6:RelayDriver_SetOutput13	16	static
+../Core/Drivers/relay_driver.c:14:6:RelayDriver_SetOutput14	16	static
+../Core/Drivers/relay_driver.c:19:6:RelayDriver_SetOutput15	16	static

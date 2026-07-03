@@ -1,0 +1,6 @@
+../Core/Drivers/uart_driver.c:9:6:UartDriver_Init	1
+../Core/Drivers/uart_driver.c:14:6:UartDriver_StartReception	1
+../Core/Drivers/uart_driver.c:19:10:UartDriver_GetWriteIndex	2
+../Core/Drivers/uart_driver.c:30:16:UartDriver_GetRxBuffer	1
+../Core/Drivers/uart_driver.c:35:6:UartDriver_Transmit	3
+../Core/Drivers/uart_driver.c:43:6:UartDriver_HandleError	1

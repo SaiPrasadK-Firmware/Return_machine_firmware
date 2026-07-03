@@ -1,0 +1,2 @@
+../Core/Protocol/packet_validator.c:10:6:Packet_VerifyCRC	32	static
+../Core/Protocol/packet_validator.c:66:16:Packet_Validate	16	static

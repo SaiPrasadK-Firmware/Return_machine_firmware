@@ -1,0 +1,4 @@
+../Core/Commands/command_registry.c:28:6:CommandRegistry_Init	1
+../Core/Commands/command_registry.c:33:6:CommandRegistry_IsSupported	1
+../Core/Commands/command_registry.c:38:18:CommandRegistry_Find	3
+../Core/Commands/command_registry.c:50:17:CommandRegistry_Execute	7

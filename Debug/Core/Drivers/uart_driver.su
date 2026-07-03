@@ -1,0 +1,6 @@
+../Core/Drivers/uart_driver.c:9:6:UartDriver_Init	4	static
+../Core/Drivers/uart_driver.c:14:6:UartDriver_StartReception	8	static
+../Core/Drivers/uart_driver.c:19:10:UartDriver_GetWriteIndex	16	static
+../Core/Drivers/uart_driver.c:30:16:UartDriver_GetRxBuffer	4	static
+../Core/Drivers/uart_driver.c:35:6:UartDriver_Transmit	16	static
+../Core/Drivers/uart_driver.c:43:6:UartDriver_HandleError	8	static
